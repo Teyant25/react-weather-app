@@ -9,6 +9,13 @@ function App() {
         <br />
         <WeatherSearch />
       </div>
+      <small>
+        <br />
+        <a href="https://github.com/Teyant25/final-weather-app" target="_blank">
+          Open-source code
+        </a>
+        by Tya Kent
+      </small>
     </div>
   );
 }
