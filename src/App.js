@@ -11,10 +11,14 @@ function App() {
       </div>
       <small>
         <br />
-        <a href="https://github.com/Teyant25/final-weather-app" target="_blank">
+        <a
+          href="https://github.com/Teyant25/react-weather-app"
+          target="_blank"
+          rel="noreferrer"
+        >
           Open-source code
         </a>
-        by Tya Kent
+        , by Tya Kent
       </small>
     </div>
   );

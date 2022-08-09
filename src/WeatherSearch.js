@@ -41,7 +41,7 @@ export default function WeatherSearch() {
     return (
       <div>
         {form}
-        <ul>
+        <ul className="conditions">
           <li> Temperature:{Math.round(weather.temperature)}°F</li>
           <li> Description:{weather.description}</li>
           <li> Humidity:{Math.round(weather.humidity)}%</li>
